@@ -1,0 +1,35 @@
+.list {
+    border: 1px #0222 solid;
+    padding: 15px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    
+
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-image:url("../image/image.jpg");
+}
+.heading {
+    font-family: sans-serif;
+    border: 1px #0222 solid;
+    padding: 10px;
+    border-radius: 15px;
+   text-align: center;
+   background-color: rgba(0, 81, 128, 0.712);
+}
+.menu {
+   
+    width: 25%;
+    border: 1px #0222 solid;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgba(3, 103, 170, 0.795);
+
+    
+}
+.submit {
+    padding-left: 25px;
+}
+
